@@ -1,0 +1,65 @@
+npx create-next-app@latest .
+
+npx shadcn-ui@latest init
+
+npx shadcn-ui@latest add button
+
+https://hypercolor.dev/grainy
+
+
+
+
+
+npx i world-countries
+
+npm install react-leaflet leaflet (for maps.)
+npm install -D @types/leaflet 
+npx shadcn-ui@latest add skeleton
+npx prisma studio
+npx prisma db push
+npx prisma generate
+npx shadcn-ui@latest add separator
+npm install react-date-range
+npm i --save-dev @types/react-date-range
+npx shadcn-ui@latest add dialog
+
+
+AlbertCEO (vercel)
+https://youtube.com/watch?v=x-km17GzInE
+
+kinde authentication website
+peaceosaro54@gmail.com
+
+
+supabase login
+EkuaseCEO github account
+
+
+Features: 
+- 🌐 Next.js 14 App Router
+- 🔐 Kinde Authentication
+- 📧 Passwordless Auth
+- 🔑 OAuth (Google and Facebook)
+- 💿 Supabase Database
+- 🖼️ Supabase Storage
+- 💨 Prisma ORM
+- 🎨 Styling with Tailwindcss and shadcn UI
+- Deployment to Vercel
+- 📅 Calendar Implementation
+- 📍 Dynamic Map Implementation
+- 📒 Reservation System
+- 🧠 Filter Bar
+- 🔎 Multi Step Search Modal
+- 📝 Multi Step Form Listing Creation
+
+
+
+Resources used:
+Next.js: https://nextjs.org
+Kinde: https://dub.sh/xeU8r3v
+Tailwind.css: https://tailwindcss.com
+Shadcn/UI: https://ui.shadcn.com
+Prisma: https://prisma.io
+Supabase: https://supabase.com
+React-date-range: https://www.npmjs.com/package/react-d...
+Vercel: https://vercel.com
